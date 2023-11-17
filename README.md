@@ -54,19 +54,6 @@ stack: "Front-End"
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />  
 </div>
-  
----
-  
-<h3 align="center">  🌐 Top Repositories</h3>
-
-<div align="center">
-  <a href="https://github.com/lucassantosdl/nike.com">
-    <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantosdl&repo=nike.com&theme=github_dark" />
-  </a>
-  <a href="https://github.com/lucassantosdl/https://github.com/lucassantosdl/pro-dashboard">
-    <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucassantosdl&repo=pro-dashboard&theme=github_dark" />
-  </a>
-</div>
 
 ---
   
@@ -77,7 +64,6 @@ stack: "Front-End"
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorGiovanis&layout=compact&theme=dracula" height="180" alt="Victor Giovanni's Most Languages"  />
 </div>
 
-###
 ---
   
 <div align="center" style="display: flex;">
