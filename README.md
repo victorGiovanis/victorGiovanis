@@ -3,14 +3,14 @@
 ## Hello, Devs!! 👋
 ### O meu nome é Victor Giovanni, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Recife/PE Brasil
+- 🔰  Sou de Recife/PE, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
-- 🧠 Estudante de Desenvolvimento de Software na Cubos Academy
+- 🧠 Estudante de Ciência da Computação na UNINASSAU
 - 🏦 Atualmente trabalho como AWS Data Cloud Engineering na Compass UOL, uma empresa focada em AI Transformation​ com Sede em São Paulo/SP
 
 ##
 
-#### Estou aprendendo sobre:
+### 🤓 Estou aprendendo sobre:
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
@@ -23,7 +23,7 @@
 
 ##
 
-#### Ferramentas que uso:
+### 🛠️ Ferramentas que uso:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
@@ -31,44 +31,72 @@
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
-[<img height="48px" width="48px" alt="Icone Azuve DevOps" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
-[<img height="48px" width="48px" alt="Icone Adobe Ilustrator" src="https://skillicons.dev/icons?i=ai"/>](https://www.adobe.com/br/products/illustrator.html)
 [<img height="48px" width="48px" alt="Icone Adode Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
 
 ##
 
-#### Como entrar em contato comigo:
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vitugiovannis/)
-[<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:israelltulio@icloud.com)
-
-##
-
-#### Experiência Profissional:
+### 🚀 Experiência Profissional:
 Na visão geral abaixo você encontrará minhas experiências de trabalho:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/TPmVPx7g/Bernhoeft.png"/>](https://www.bernhoeft.com.br/)
-**Strategy and Innovation Analyst** \
-[**Bernhoeft**](https://www.bernhoeft.com.br/) • Full-time \
-Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
-<br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
+**Estagiário de Suporte TI** \
+[**Bernhoeft**](https://www.bernhoeft.com.br/) • Part-time \
+Competências: `Soluções de backup`, `Suporte técnico`, `Manutenção preventiva`, 
+<br/> `Instalação de software`
+
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/jjZSzq3x/Sistemica.png"/>](https://www.bernhoeft.com.br/)
+**Analista de Suporte TI** \
+[**Sistêmica Contabilidade**](https://sistemicacontabilidade.com.br/) • Full-time \
+Competências: `Scrum`, `Tecnologia da informação`, `Segurança da informação`, 
+<br/> `Gestão de infraestrutura de TI`
+
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/JnxYrvhd/Compass-UOL.png"/>](https://www.bernhoeft.com.br/)
+**AWS Data Cloud Engineering** \
+[**Compass UOL**](https://sistemicacontabilidade.com.br/) • Part-time \
+Competências: `Scrum`, `Tecnologia da informação`, `Segurança da informação`, 
+<br/> `Gestão de infraestrutura de TI`
 
 ##
 
-#### Formação Acadêmica:
+### 👨‍🎓 Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)
-**Software Developer** \
-[**Cubos Academy**](https://cubos.academy/) \
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/JzPqVK6Y/Uninassau.png"/>](https://cubos.academy/)
+**Computer Science** \
+[**UNINASSAU**](https://graduacao.uninassau.digital/) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
 <br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `PostgreSQL`
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/vitugiovannis/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
 
-#### Estatísticas:
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelltulio&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=israelltulio&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
-[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=israelltulio&amp;theme=radical"/>](https://github.com/)
+<h3 align="center">🌐 gitHub Estatísticas</h3>
+  
+<div align="center">
+  <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorGiovanis&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=victorGiovanis&show_icons=true&include_all_commits=true&theme=radical"/>
+  <img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=victorGiovanis&amp;theme=radical"/>
+</div>
+
+##
+
+<div align="center" style="display: flex;">
+  <h3>Como entrar em contato comigo 😉</h3>
+  <p>
+    <a href = "mailto:victorgiovanni769@gmail.com ">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/vitugiovannis/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+    </a>
+    <a href="https://www.instagram.com/vitugiovanni/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagaram"/>
+    </a>
+  </p>
+</div>
